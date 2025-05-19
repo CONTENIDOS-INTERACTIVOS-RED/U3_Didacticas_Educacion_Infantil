@@ -47,8 +47,8 @@
     
     
 
-    .row.mb-5
-      .col-lg-2.order-lg-2.mb-3.mb-lg-0
+    .row.mb-5.justify-content-center
+      .col-6.col-lg-2.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/4.png", data-aos="zoom-in")
       .col-lg-10.order-lg-1
@@ -290,8 +290,8 @@
               .col-lg-4(data-aos="zoom-in").order-1
                 img.img-fluid(src='@/assets/curso/tema1/24.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0 
 
-    .row.mb-5
-      .col-lg-2.order-lg-2.mb-3.mb-lg-0
+    .row.mb-5.justify-content-center
+      .col-6.col-lg-2.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/25.png", data-aos="zoom-in")
       .col-lg-10.order-lg-1
@@ -339,7 +339,7 @@
     
     h2.mb-5(data-aos="fade-left") Arcilla: propiedades y preparación
   
-    .bg-full-width.bg-color-13
+    .bg-full-width.bg-color-13.mb-5
       .px-4.px-md-5
         .row.justify-content-center.align-items-center
           .col-lg-12
