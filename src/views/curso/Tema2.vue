@@ -68,7 +68,7 @@
             p.text-white(data-aos="fade-left").mb-4 Para estudiar la temática, lo invitamos a escuchar el siguiente podcast.
     
             TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-              texto="Fundamentos de la innovación estratégica"
+              texto="Monstruos, fantasmas y brujos"
               tiempo
               :audio="require('../../assets/curso/podcast/podcast1.mp3')"
             )
